@@ -1,0 +1,93 @@
+{
+  "week_1": [
+    {
+      "title": "Mastering AI Agents in 2025 - A Comprehensive Guide",
+      "format": "Long",
+      "level": "Advanced",
+      "tags": [
+        "AI Agents",
+        "2025",
+        "Advanced",
+        "Guide"
+      ]
+    },
+    {
+      "title": "AI Agent Observability Trends in 2025",
+      "format": "Short",
+      "level": "Intermediate",
+      "tags": [
+        "AI Agents",
+        "Trends",
+        "2025"
+      ]
+    }
+  ],
+  "week_2": [
+    {
+      "title": "Future Predictions: AI Agents in 2025",
+      "format": "Explainer",
+      "level": "Intermediate",
+      "tags": [
+        "AI Agents",
+        "Predictions",
+        "2025"
+      ]
+    },
+    {
+      "title": "Introduction to Autonomous AI Agents of 2025",
+      "format": "Tutorial",
+      "level": "Beginner",
+      "tags": [
+        "AI Agents",
+        "Autonomous",
+        "2025",
+        "Tutorial"
+      ]
+    }
+  ],
+  "week_3": [
+    {
+      "title": "The Role of AI Agents in the Internet of 2025",
+      "format": "Explainer",
+      "level": "Intermediate",
+      "tags": [
+        "AI Agents",
+        "Internet",
+        "2025"
+      ]
+    },
+    {
+      "title": "How AI Agents will Transform Enterprise Apps by 2026",
+      "format": "Long",
+      "level": "Advanced",
+      "tags": [
+        "AI Agents",
+        "Enterprise Apps",
+        "2026"
+      ]
+    }
+  ],
+  "week_4": [
+    {
+      "title": "Statistics Breakdown: AI Agents in 2025",
+      "format": "Short",
+      "level": "Intermediate",
+      "tags": [
+        "AI Agents",
+        "Statistics",
+        "2025"
+      ]
+    },
+    {
+      "title": "Best AI Coding Agents Predicted for 2025",
+      "format": "Tutorial",
+      "level": "Advanced",
+      "tags": [
+        "AI Agents",
+        "Coding",
+        "2025",
+        "Best"
+      ]
+    }
+  ]
+}
